@@ -53,7 +53,6 @@
 		737C4FBE224E01E300685FE3 /* testTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "testTests-Info.plist"; sourceTree = "<group>"; };
 		737C4FC0224E01E300685FE3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		737C4FC2224E01E300685FE3 /* testTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testTests.m; sourceTree = "<group>"; };
-		FA55A978224F421700C54001 /* geely_itqiche.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = geely_itqiche.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,7 +86,6 @@
 				737C4FBC224E01E300685FE3 /* testTests */,
 				737C4F96224E01E300685FE3 /* Frameworks */,
 				737C4F95224E01E300685FE3 /* Products */,
-				FA55A978224F421700C54001 /* geely_itqiche.podspec */,
 			);
 			sourceTree = "<group>";
 		};
